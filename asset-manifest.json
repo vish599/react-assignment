@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-assignment/static/css/main.6cbafa16.css",
+    "main.js": "/react-assignment/static/js/main.d23891cd.js",
+    "static/media/v2.mp4": "/react-assignment/static/media/v2.7ef1c8133ba62fa08a43.mp4",
+    "static/media/v1.mp4": "/react-assignment/static/media/v1.f64fed51b2026a2b73b2.mp4",
+    "static/media/Ad2.png": "/react-assignment/static/media/Ad2.e730d1959ab98b73e8a0.png",
+    "static/media/kit.png": "/react-assignment/static/media/kit.7922a1c637780132bf99.png",
+    "static/media/Ad3.png": "/react-assignment/static/media/Ad3.d667e56d5502c95d0ff8.png",
+    "static/media/f1.png": "/react-assignment/static/media/f1.dd964f84e544778ac5fc.png",
+    "static/media/hair.png": "/react-assignment/static/media/hair.5dded2a2aada00ea8231.png",
+    "static/media/hand.png": "/react-assignment/static/media/hand.16ec83224ed0e5b7dc1e.png",
+    "static/media/read.png": "/react-assignment/static/media/read.54bd55e538fa6f9c22b6.png",
+    "static/media/Ad4.png": "/react-assignment/static/media/Ad4.2a4e6d5af4535e7e2892.png",
+    "static/media/Ad1.png": "/react-assignment/static/media/Ad1.8cbc5bcc1e121dd66312.png",
+    "static/media/Ad5.png": "/react-assignment/static/media/Ad5.68f2cd1065cee1d8be3e.png",
+    "static/media/Ad14.jpg": "/react-assignment/static/media/Ad14.6881cc02a049502c6ed6.jpg",
+    "static/media/A7.png": "/react-assignment/static/media/A7.bb78c0f7c76692e13d14.png",
+    "static/media/Ad12.jpg": "/react-assignment/static/media/Ad12.49e67a1ef6d3c9f9523f.jpg",
+    "static/media/Ad10.png": "/react-assignment/static/media/Ad10.a840ec43985d606dbce3.png",
+    "static/media/Ad11.png": "/react-assignment/static/media/Ad11.a840ec43985d606dbce3.png",
+    "static/media/Ad6.png": "/react-assignment/static/media/Ad6.ba853b317928c93aa114.png",
+    "static/media/Ad13.jpg": "/react-assignment/static/media/Ad13.b2954612fd2549cac2d3.jpg",
+    "static/media/Ad9.png": "/react-assignment/static/media/Ad9.9f542e1776ce9b426332.png",
+    "static/media/gift.png": "/react-assignment/static/media/gift.9d217fb9095316ee6ef9.png",
+    "static/media/Ad8.png": "/react-assignment/static/media/Ad8.053dad3c7769a99c9151.png",
+    "static/media/slick.svg": "/react-assignment/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-assignment/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-assignment/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-assignment/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-assignment/index.html",
+    "main.6cbafa16.css.map": "/react-assignment/static/css/main.6cbafa16.css.map",
+    "main.d23891cd.js.map": "/react-assignment/static/js/main.d23891cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbafa16.css",
+    "static/js/main.d23891cd.js"
+  ]
+}
