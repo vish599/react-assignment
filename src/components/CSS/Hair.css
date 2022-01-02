@@ -1,0 +1,22 @@
+
+
+.gift-main{background-color:rgb(240, 238, 221)}
+
+.main{
+   
+   margin-left: 50px;
+   margin-top: 100px;
+   height: 100px;
+   width: 200px;float: left;
+   
+}
+.content{
+    
+    height: auto;
+    margin-top: 100px;
+    width: 200px;
+    float: left;
+    background-color:rgb(240, 238, 221) ;
+
+}
+.content a{background-color:rgb(240, 238, 221) ;border:none}

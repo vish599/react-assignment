@@ -1,0 +1,24 @@
+
+
+.fg-main{background-color:rgb(224, 220, 185)}
+
+.main{
+   
+   margin-left: 50px;
+   margin-top: 90px;
+   height: 100px;
+   width: 200px;float: left;
+   
+}
+.content1,.content2,.content3{
+    
+    height: auto;
+    margin-top: 100px;
+    width: 200px;
+    float: left;
+    background-color:rgb(224, 220, 185) ;
+
+}
+
+.content1 a,.content2 a,.content3 a{background-color:rgb(224, 220, 185);border:none}
+.content1 h6,.content2 h6,.content3 h6{margin-left: 10px;}

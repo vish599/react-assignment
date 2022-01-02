@@ -1,0 +1,20 @@
+.slick-arrow{
+    box-sizing: border-box;
+    z-index: 60;
+    display: flex;
+    width: 60px;
+    height: 60px;
+    background-color: #333;
+    pointer-events: auto;
+    color: #333;
+   
+}
+
+
+.slick-prev:after{
+    background-color: #333;
+    color: #333;
+}
+.slick-next::before{
+    transition: all 500ms cubic-bezier(0.215, 0.61, 0.355, 1);
+}

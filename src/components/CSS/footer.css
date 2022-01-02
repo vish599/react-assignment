@@ -1,0 +1,168 @@
+.main{
+    width: 100%;
+    height: 691px;
+    background-color: black;
+  
+}
+
+#first{
+    width:40%;
+    height: 691px;
+    background-color:black;
+    float: left;
+    align-items: left;
+
+
+}
+#second{
+    width:20%;
+    height: 691px;
+    background-color:black;
+    float: left;
+
+}
+#third{
+    width:20%;
+    height: 691px;
+    background-color:black;
+    float: left;
+
+}
+#four{
+    width:20%;
+    height: 691px;
+    background-color:black;
+    float: left;
+
+}
+#first .input{
+            width:90%;
+            height:40px;
+            border: none;
+            background-color: black;
+            margin-top: 50px;
+            margin-left: 30px;
+            border-radius: 2px;
+            border:1px solid white;
+            color:white;
+          border-radius: 3px;}
+
+
+#email{width:80%;
+    height:40px;
+    float: left;
+    border:1px solid white;
+    background-color:tomato;
+    margin-top: 50px;
+    margin-left: 30px;
+ 
+  border-radius: 3px;}
+
+.check_content #check{
+    float: left;
+   margin-top: 20px;
+   margin-left: 30px;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fff;
+    color: #fff;
+    appearance: none;
+    background-clip: content-box;
+    background-color: transparent;
+}
+
+#check:checked::before {
+    top: -4px;
+    left: 4px;
+    position: relative;
+    content: '\2713';
+}
+
+.divider {
+    width: 80%;
+    display: block;
+    border-top: 1px solid white;
+}
+
+.check_content p{
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: azure;
+}
+
+#content h5{
+   
+    color:azure;
+}
+#content #hr{
+    height: 1px white;
+    margin-top: 10px;
+    background-color: white;
+    width: 80%;
+}
+#content{
+    margin-top: 250px;
+    margin-left: 30px;
+    background-color:black;
+    width: 100%;
+    height: 300px;
+}
+
+
+
+#second h5{
+    margin-top: 50px;
+    color: white;
+}
+
+
+#second a{
+    background-color: black;
+    color: white;
+    border:none;
+}
+
+
+#third h5{
+    margin-top: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+#third #hr{
+    width: 100%;
+    height: 5px white;
+    background-color: white;
+}
+#third a{
+    background-color: black;
+    color: white;
+    border:none;
+}
+
+#third h6{
+    margin-left: 10px;
+    margin-top: 155px;
+    color: white;
+}
+
+
+
+#four h5{
+    margin-top: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+#four #hr{
+    width: 100%;
+    height: 5px white;
+    background-color: white;
+}
+#four a{
+    background-color: black;
+    color: white;
+    border:none;
+    
+}
